@@ -1,6 +1,5 @@
 # Date Calculator
 
-
 A modern, interactive date calculator built with React that allows users to calculate dates in the past or future based on a reference date.
 
 ## Demo
@@ -20,18 +19,21 @@ A modern, interactive date calculator built with React that allows users to calc
 - Responsive design that works on all devices
 - Clean, modern UI with smooth animations
 
-## Technologies Used
-
-- React 19.0.0
-- CSS3 with modern features
-- Built with Create React App
-- Responsive design principles
-- ES6+ JavaScript features
-
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/ceferrei/date-counter-react.git
-   cd date-calculator
+   cd date-counter-react
    ```
+2. Install dependencies:
+
+   ```cd flashcards
+   npm install
+   ```
+
+3. Start the development server:
+
+   ` npm start`
+
+4. Open in your browser: http://localhost:3000
