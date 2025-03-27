@@ -1,8 +1,5 @@
 # Date Calculator
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Date+Calculator" alt="Date Calculator Preview" />
-</div>
 
 A modern, interactive date calculator built with React that allows users to calculate dates in the past or future based on a reference date.
 
